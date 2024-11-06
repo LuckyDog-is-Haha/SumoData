@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <input>
+        <net-file value="map.net.xml"/>
+        <route-files value="random1.rou_10.xml"/>
+    </input>
+
+	<output>
+		<write-license value="true"/>
+		<tripinfo-output value="D:/SUMOProject/dalianMap/randomAssortment/output/10/1/tripinfos.xml"/>
+		<fcd-output value="D:/SUMOProject/dalianMap/randomAssortment/output/10/1/fcd.xml"/>
+		<emission-output value="D:/SUMOProject/dalianMap/randomAssortment/output/10/1/emissions.xml"/>
+	</output>
+
+    <time>
+		<begin value="0" />
+		<end value="2000" />
+	</time>
+
+</configuration>

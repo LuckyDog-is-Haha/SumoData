@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-05-20 15:01:33.461489 by randomTrips.py v1_19_0+0000-baa66a0f364
+<configuration>
+    <net-file value="map.net.xml"/>
+    <route-file value="map.rou.xml"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    
+    <trip id="1" depart="0.00" from="-926428264" to="1123482450#2"/>
+    <trip id="21" depart="0.00" from="218183854#11" to="1271145221"/>
+	<trip id="41" depart="0.00" from="1116155760#2" to="629192669#0"/>
+	<trip id="61" depart="0.00" from="1231720896" to="926418977#8"/>
+	<trip id="81" depart="0.00" from="891411218" to="-359262541#1"/>
+	<trip id="101" depart="0.00" from="-892154180#0" to="893202876#0"/>
+	<trip id="121" depart="0.00" from="186253993#2" to="233036583#1"/>
+	<trip id="141" depart="0.00" from="663169786#0" to="1033436828"/>
+	<trip id="161" depart="0.00" from="207166189#0" to="815791638#0"/>
+	<trip id="181" depart="0.00" from="359262556#1" to="1121534075#15"/>
+</routes>
